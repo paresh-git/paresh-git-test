@@ -1,2 +1,4 @@
 learning git first
-my second comment 
+my second comment
+
+secoond comment 
